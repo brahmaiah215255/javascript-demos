@@ -1,1 +1,5 @@
-alert("welcome to javascript")
+function test() {
+	alert("welcome to javascript");
+};
+
+
